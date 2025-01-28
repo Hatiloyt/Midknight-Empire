@@ -51,59 +51,6 @@ header {
     border-top: 1px solid #ccc;
 }
 
-.tab-content.active {body {
-   background: #f5f5ff;
-}
-
-header {
-    text-align: center;
-    color: white;
-    font-size: 35px;
-    background: #000000a8;
-    padding: 20px 50px;
-    border-radius: 10px;
-}
-
-.tabs {
-    display: flex;
-    justify-content: center;
-    background-color: #333;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin: 2px 0;
-}
-
-.tab-button {
-    background-color: #2b2b2b;
-    padding: 5px 12px;
-    font-size: 16px;
-    border: 1px solid #ccc;
-    cursor: pointer;
-    width: 80px;
-    text-align: center;
-    margin-right: px1;
-    color: white;
-}
-
-.tab-button:hover {
-    background-color: #3d3d3d;
-    transform: scale(1.1);
-
-}
-
-.tab-button.active {
-    background-color: #121212;
-    font-weight: bold;
-    color: white;
-}
-
-.tab-content {
-    text-align: center;
-    display: none;
-    padding: 20px;
-    border-top: 1px solid #ccc;
-}
-
 .tab-content.active {
     display: block;
 }
@@ -265,3 +212,4 @@ h7 {
 h2 {
 font-size: 40px;
 }
+
